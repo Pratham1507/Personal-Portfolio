@@ -509,7 +509,7 @@ form .send-btn:hover{
     }
     .hero{
         height: 100vh;
-/*         background-position: center; */
+        background-position: center;
     }
 }
 
@@ -597,7 +597,7 @@ form .send-btn:hover{
         width: 100%;
     }
     .main-content h1{
-        font-size: 3rem;
+        font-size: 2.5rem;
     }
 }
 
