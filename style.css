@@ -624,4 +624,8 @@ form .send-btn:hover{
     .h-btn{
         font-size: 12px;
     }
+
+    .send-btn{
+        width: 150px !important;
+    }
 }
