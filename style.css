@@ -628,4 +628,7 @@ form .send-btn:hover{
     .send-btn{
         width: 150px !important;
     }
+
+    .main-content{
+        padding-top: 0 !important
 }
