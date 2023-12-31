@@ -509,7 +509,7 @@ form .send-btn:hover{
     }
     .hero{
         height: 100vh;
-        background-position: center;
+/*         background-position: center; */
     }
 }
 
