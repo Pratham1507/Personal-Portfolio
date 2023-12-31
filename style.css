@@ -625,3 +625,11 @@ form .send-btn:hover{
         font-size: 12px;
     }
 }
+
+
+@media (min-width:471px) and (max-width:550px){
+    .about{
+        margin-top: 10rem;
+    }
+}
+
